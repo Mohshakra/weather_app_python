@@ -50,3 +50,6 @@ if __name__ == "__main__":
     print("Lat: " + my_coordinates.lat)
     print("Lon: " + my_coordinates.lon)
     print("City: " + my_coordinates.city)
+    
+    
+# end of program
