@@ -1,0 +1,8 @@
+# ignore txt files
+*.txt
+
+# ignore all files in the build directory
+build/
+
+# igonre __pycache__ directories
+__pycache__/
